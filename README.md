@@ -13,7 +13,7 @@
 dconf load /org/gnome/terminal/legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9/ < ~/Downloads/material-theme-profile.dconf
 ```
 
-* Make shure your profile id is correct and the `material-theme-profile.dconf` is in downloads.
+* Make sure your profile id is correct and the `material-theme-profile.dconf` is in downloads.
 
 * Now your gnome terminal looks amazing with the DarkBlue Ice theme!
 
