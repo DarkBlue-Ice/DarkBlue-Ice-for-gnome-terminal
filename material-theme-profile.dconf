@@ -1,0 +1,6 @@
+[/]
+background-color='rgb(57,64,77)'
+foreground-color='rgb(195,214,249)'
+palette=['rgb(42,47,59)', 'rgb(32,47,78)', 'rgb(195,214,249)', 'rgb(42,47,59)', 'rgb(85,96,119)', 'rgb(174,187,210)', 'rgb(195,214,249)', 'rgb(145,157,179)', 'rgb(57,64,77)', 'rgb(40,58,97)', 'rgb(78,92,122)', 'rgb(205,218,243)', 'rgb(78,92,122)', 'rgb(145,157,179)', 'rgb(205,218,243)', 'rgb(159,171,191)']
+use-theme-colors=false
+visible-name='DarkBlueIce'
