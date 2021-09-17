@@ -10,10 +10,10 @@
 * Installl the `material-theme-profile.dconf` on [github releases](https://github.com/Dedsd/DarkBlue-Ice-for-gnome-terminal/releases)
 * Execute the following command in the terminal:
 ```
-dconf load /org/gnome/terminal/legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9/ < ~/Downloads/material-theme-profile.dconf
+dconf load /org/gnome/terminal/legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9/ < ~/Downloads/dark-blue-ice-profile.dconf
 ```
 
-* Make sure your profile id is correct and the `material-theme-profile.dconf` is in downloads.
+* Make sure your profile id is correct and the `dark-blue-ice-profile.dconf` is in downloads.
 
 * Now your gnome terminal looks amazing with the DarkBlue Ice theme!
 
