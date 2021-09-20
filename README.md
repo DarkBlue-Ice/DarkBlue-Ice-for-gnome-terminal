@@ -1,7 +1,7 @@
 ## DarkBlue Ice for gnome terminal
 ![image1](images/example.png)
 
-### A Beautiful theme for gnome terminal with Dark blue and ice colors distributed in a harmonic way.
+### A Beautiful theme for gnome terminal with dark blue and ice colors distributed in a harmonic way.
 
 ---
 
